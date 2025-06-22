@@ -31,5 +31,5 @@ A complete real-time streaming project to detect credit card fraud using Kafka, 
 
 ## 🧠 Project Architecture
 
-```mermaid
+http://localhost:8501/
 
