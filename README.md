@@ -30,6 +30,6 @@ A complete real-time streaming project to detect credit card fraud using Kafka, 
 ---
 
 ## 🧠 Project Architecture
-
 http://localhost:8501/
+
 
